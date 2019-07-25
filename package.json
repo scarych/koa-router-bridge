@@ -1,0 +1,28 @@
+{
+  "author": "Grigory B. Kholstinnikov",
+  "dependencies": {
+    "koa-router": "^7.4.0"
+  },
+  "description": "Easy bridge for koa-router",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "koa-router",
+    "koa",
+    "bridge",
+    "bridges",
+    "nested",
+    "routes"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "scarych <holstinnikov@gmail.com>"
+  ],
+  "name": "koa-router-bridge",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
